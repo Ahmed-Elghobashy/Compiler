@@ -27,12 +27,4 @@ To use this project, follow the steps below:
 1. Clone the repository
 2. Run the tests provided in the tests package
 
-## Contribution Guidelines
 
-If you want to contribute to this project, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your contribution.
-2. Ensure that your code follows the project's coding style and conventions.
-3. Write clear and concise commit messages.
-4. Test your changes thoroughly before submitting a pull request.
-5. Provide a detailed description of your changes in the pull request.
