@@ -24,7 +24,7 @@ The following tasks have been implemented in this project:
 
 To use this project, follow the steps below:
 
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository
 2. Run the tests provided in the tests package
 
 ## Contribution Guidelines
