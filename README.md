@@ -36,15 +36,3 @@ If you want to contribute to this project, please follow these guidelines:
 3. Write clear and concise commit messages.
 4. Test your changes thoroughly before submitting a pull request.
 5. Provide a detailed description of your changes in the pull request.
-
-## License
-
-[Specify the project's license here. For example: This project is licensed under the MIT License.]
-
-## Acknowledgments
-
-[If there are any acknowledgments or credits to be given, mention them here.]
-
-## Contact Information
-
-For any questions, issues, or suggestions, please contact [your name] at [your email address].
